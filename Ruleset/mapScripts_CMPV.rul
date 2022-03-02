@@ -654,3 +654,14 @@ mapScripts:
       size: 2
       executions: 4
     - type: fillArea
+
+  - type: NOOBERIA
+    commands:
+    - type: addBlock
+      size: 2
+      groups: 5
+    - type: addCraft
+    - type: addBlock
+      groups: 6
+      executions: 3
+    - type: fillArea

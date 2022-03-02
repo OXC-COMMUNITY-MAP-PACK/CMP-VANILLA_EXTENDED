@@ -3171,6 +3171,102 @@ terrains:
       - name: ISLANDURBAN14
         width: 10
         length: 10
+
+  - name: NOOBERIA # by Dioxine, Solarius Scorch & Brain_322
+    mapDataSets:
+      - BLANKS
+      - MOUNTSNOW
+      - URBAN40K2
+      - COMPLEXBITS
+    script: NOOBERIA
+    mapBlocks:
+      - name: NOOBERIA0X0X
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: NOOBERIA01
+        width: 10
+        length: 10
+      - name: NOOBERIA02
+        width: 10
+        length: 10
+      - name: NOOBERIA03
+        width: 10
+        length: 10
+      - name: NOOBERIA04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: NOOBERIA05
+        width: 10
+        length: 10
+      - name: NOOBERIA06
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: NOOBERIA07
+        width: 10
+        length: 10
+      - name: NOOBERIA08
+        width: 10
+        length: 10
+      - name: NOOBERIA09
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: NOOBERIA10
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA11
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA12
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA13
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA14
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA15
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA16
+        width: 10
+        length: 10
+        groups: 6
+      - name: NOOBERIA20
+        width: 20
+        length: 20
+        groups: 5
+      - name: NOOBERIA21
+        width: 10
+        length: 10
+      - name: NOOBERIA24
+        width: 10
+        length: 10
+      - name: NOOBERIA25
+        width: 10
+        length: 10
+      - name: NOOBERIA26
+        width: 10
+        length: 10
+      - name: NOOBERIA27
+        width: 10
+        length: 10
+      - name: NOOBERIA28
+        width: 10
+        length: 10
+      - name: NOOBERIA29
+        width: 10
+        length: 10
 ############################################
 ###### CRUISE LINER BY SOLARIUS SCORCH ####
 ##########################################
