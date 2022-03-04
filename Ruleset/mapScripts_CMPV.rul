@@ -159,7 +159,7 @@ mapScripts:
 ####### COMMNITY MAPS BELOW #####
 
 ####################################
-###### AIRPORT WITHOUT PLANE ######
+###### AIRPORT WITHOUT UFO ######
 ##################################
 
   - type: OLD_PORT_SCRIPT
@@ -272,45 +272,6 @@ mapScripts:
       blocks: [0, 1, 2, 13, 14, 15, 16, 32, 33, 34, 35, 36]
       freqs: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
       maxUses: [2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3]
-
-
-
-  - type: ALIENBASE  # Thanks to HellRazor 
-    commands:
-    - type: addBlock #Add Entrances
-      groups: 2
-      executions: 2
-    - type: addBlock #Add Command Center
-      size: 2
-      groups: 3
-    - type: addBlock #Add 20x20 Map Blocks
-      size: 2
-      executions: 4
-    - type: addBlock #Add Entertaiment Room
-      groups: 7
-    - type: addBlock #Add Impassable Power Source Block
-      groups: 9
-    - type: fillArea
-      groups: [0, 1]
-      freqs: [3, 2]
-    - type: digTunnel
-      direction: both
-      tunnelData:
-        level: 0
-        MCDReplacements:
-          - type: westWall
-            set: 2
-            entry: 18
-          - type: northWall
-            set: 2
-            entry: 17
-          - type: corner
-            set: 2
-            entry: 19
-          - type: floor
-            set: 1
-            entry: 63
-#END ALIEN UBASE
 
   - type: REFINERYS  # Thanks to BulletDesigner
     commands:
@@ -468,7 +429,7 @@ mapScripts:
       conditionals: [-1, -2, -3]
       direction: vertical
       executionChances: 50
-      verticalGroup: 7
+      #verticalGroup: 7
       rects:
         - [1, 1, 4, 1]
     - type: addLine
@@ -476,8 +437,8 @@ mapScripts:
       conditionals: [-1, -2, -3, -4]
       executionChances: 50
       direction: both
-      verticalGroup: 7
-      crossingGroup: 8
+      #verticalGroup: 7
+      #crossingGroup: 8
       rects:
         - [1, 1, 4, 4]
     - type: addBlock
