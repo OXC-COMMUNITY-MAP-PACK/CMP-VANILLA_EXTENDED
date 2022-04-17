@@ -88,7 +88,10 @@ globe:
           weight: 30
         - name: RICE_FARM
           area: [85, 170, -48, -6]
-          weight: 40
+          weight: 20
+        - name: IDT_RED_FARM
+          area: [85, 170, -48, -6]
+          weight: 20
         - name: URBAN
           area: [0, 360, 0, 90]
           weight: 30
@@ -119,7 +122,10 @@ globe:
       terrain:
         - name: CULTA
           area: [0, 360, -90, 0]
-          weight: 50
+          weight: 30
+        - name: IDT_RED_FARM
+          area: [0, 360, -90, 0]
+          weight: 20
         - name: PLAINSGRASS
           area: [0, 360, -90, 0]
           weight: 50
@@ -218,11 +224,13 @@ globe:
           - name: ACULTASNOW
             weight: 10
           - name: POLAR
-            weight: 35
+            weight: 30
           - name: POLAR_BD
-            weight: 35
+            weight: 30
           - name: PLAINSSNOW
             weight: 20
+          - name: NOOBERIA
+            weight: 10
     - id: 13 # Swallow water, now unused
       terrain:
           - name: POLAR

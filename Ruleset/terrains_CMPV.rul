@@ -188,6 +188,154 @@ terrains:
       #   length: 10
       #   groups: 4 # HILLS
 
+  - name: IDT_RED_FARM # By efrenespartano, Luke83 & Solarius Scorch
+    script: FARM_RED
+    mapDataSets:
+      - BLANKS
+      - IDT_CULTIVAT_RED
+      - IDT_BARN_RED
+      - IDT_FARM_RED
+      - IDT_ROOF_RED
+      - SOL_SILO_PLAIN
+      - CULTMACHINES
+      - IDT_BARN_RED_2
+    mapBlocks:
+      - name: CULTARED00 # grass, flat LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED01 # grass, two N-S plantpots
+        width: 10
+        length: 10
+        groups: 5
+      - name: CULTARED02 # grass, two E-W plantpots
+        width: 10
+        length: 10
+        groups: 5
+      - name: CULTARED03 # grass, plantpot
+        width: 10
+        length: 10
+        groups: 5
+      - name: CULTARED04 # grass, minor pines
+        width: 10
+        length: 10
+      - name: CULTARED05 # cornfield, N-S
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED06 # cornfield, W-E
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED07 # tall grass, LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED08 # carrot field
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED09 # radish field
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED10 # cornfield, new grown 
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED11 # dirt, dead grass LZ
+        width: 10
+        length: 10
+        groups: 1
+      - name: CULTARED12 # dirt, corral
+        width: 10
+        length: 10
+      - name: CULTARED13 # grass, W-E pens
+        width: 20
+        length: 10
+        groups: 5
+      - name: CULTARED14 # grass, W-E workshop, corral and plantpots
+        width: 20
+        length: 10
+        groups: 5
+      - name: CULTARED15 # cornfield, W-E dried & bales fence
+        width: 20
+        length: 10
+        groups: 6
+      - name: CULTARED16 # grass barn, small bales
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED17 # dirt, workshop
+        width: 10
+        length: 10
+        groups: 6
+      - name: CULTARED18 # stone, small house
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED19 # grass, barn small, furniture & corral
+        width: 10
+        length: 10
+        groups: 6
+      - name: SOL_SILO20 # grass, 2 silos, stone walls
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED22 # grass, W-E barn and corral
+        width: 20
+        length: 10
+        groups: 7
+      - name: CULTARED23 # grass, W-E workshop and corral
+        width: 20
+        length: 10
+        groups: 7
+      - name: CULTARED30 # grass, chicken pen
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED31 # grass, chicken pen
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED32 # grass, cornfield
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED33 # grass, cornfield
+        width: 10
+        length: 10
+        groups: 7
+      - name: CULTARED40 # grass, W-E road, tractor with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED41 # grass, W-E road with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED42 # grass, W-E road, toilet with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED43 # grass, W-E road, grain silo with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED44 # grass, W-E road with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED45 # grass, W-E road with stone fence
+        width: 10
+        length: 10
+        groups: 2
+      - name: CULTARED31 # grass, pen and workshop
+        width: 10
+        length: 10
+        groups: 7
+
+
   - name: EXPANDED_TERROR #Thanks to HellRazor
     mapDataSets:
       - BLANKS
