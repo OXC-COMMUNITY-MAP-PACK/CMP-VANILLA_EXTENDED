@@ -1,3 +1,12 @@
+16-April-2022: CMP Vanilla v0.7
+- Updated with OXCE v7.5.3
+- New terrains:
+	- Corn Farm, by efrenespartano, Luke83 and Solarius Scorch
+	- Arctic Outpost, by Solarius Scorch, Dioxine and Brain_322
+- Added new terrains to Geoscape
+- Improved and expanded IDT_AIRPORT into Military Airport, added new mapblocks
+- Updated credits
+
 17-Nov-2020: CMP Extended v0.6
 - Updated to OXCE v6.7.2
 - Fixed issue with missing Shipping Lanes alien terror mission, reported by Valmont and Meridian

@@ -1,21 +1,21 @@
 extraStrings:
   - type: en-US
     strings:
-     MAP_ACULTA: "Ghothic Grass"
-     MAP_ACULTASNOW: "Ghothic Snow"
-     MAP_ACULTASAND: "Ghothic Sand"
+     MAP_ACULTA: "Gothic Grass"
+     MAP_ACULTASNOW: "Gothic Snow"
+     MAP_ACULTASAND: "Gothic Sand"
      MAP_MOUNT: "Mountains Wasteland"
      MAP_MOUNTSNOW: "Mountains Snow"
-     MAP_MOUNTMUDD: "Mountains Mudd"
+     MAP_MOUNTMUDD: "Mountains Mud"
      MAP_MOUNTGRASS: "Mountains Grass"
      MAP_MOUNTSAND: "Mountains Sand "
      MAP_MOUNTROCK: "Mountains Rocks"
      MAP_MOUNTTROP: "Mountains Tropical"
      MAP_PLAINS: "Plains Wasteland "
      MAP_PLAINSSNOW: "Plains Snow"
-     MAP_PLAINSMUDD: "Plains Mudd"
+     MAP_PLAINSMUDD: "Plains Mud"
      MAP_PLAINSGRASS: "Plains Grass"
-     MAP_PLAINSSAND: "Plains  Sand"
+     MAP_PLAINSSAND: "Plains Sand"
      MAP_PLAINSROCK: "Plains Rocks"
      MAP_PLAINSTROP: "Plains Tropical"
      MAP_REFINERY: "Refinery"
@@ -43,7 +43,7 @@ extraStrings:
      MAP_FOREST_SNOW: "Forest Snow"
      MAP_FORESTSWAMP_SNOW: "Forest Swamp Snow"
      MAP_NOOBERIA: "Arctic Outpost"
-     MAP_IDT_RED_FARM: "Corn Farm"
+     IDT_RED_FARM: "Corn Farm"
 #########################################
      STR_TERROR_MISSION: TERROR MISSION URBAN
      STR_TERROR_MISSION_BRIEFING: "A city is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
