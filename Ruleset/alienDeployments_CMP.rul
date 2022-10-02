@@ -150,6 +150,7 @@ alienDeployments:
       - EXPANDED_TERROR
       - COMRCURBAN
       - INDUSTRIALSLUM
+      - TMURBAN
     alert: STR_ALIENS_TERRORISE
     alertBackground: BACK03.SCR
     briefing:
@@ -187,6 +188,7 @@ alienDeployments:
     civilians: 16
     terrains:
       - IDT_SNOWVILLAGE
+      - TPURBAN
     alert: STR_ALIENS_TERRORISE
     alertBackground: BACK03.SCR
     briefing:
@@ -222,8 +224,8 @@ alienDeployments:
     civilians: 16
     terrains:
       - ISLANDURBAN
-      - EXPANDED_TERROR
-      - IDT_AIRPORT
+      - TJURBAN
+      - TMURBAN
     alert: STR_ALIENS_TERRORISE
     alertBackground: BACK03.SCR
     briefing:

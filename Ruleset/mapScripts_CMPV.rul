@@ -635,7 +635,7 @@ mapScripts:
       executions: 4
     - type: fillArea
 
-  - type: NOOBERIA
+  - type: NOOBERIA # Thanks to Solarius Scorch!
     commands:
     - type: addBlock
       size: 2
@@ -645,3 +645,30 @@ mapScripts:
       groups: 6
       executions: 3
     - type: fillArea
+
+  - type: URBANUFO # Thanks to cevaralien!
+    commands:
+    - type: addUFO
+    - type: addCraft
+    - type: addLine
+      label: 1
+      direction: vertical
+      executionChances: 50
+    - type: addLine
+      label: 2
+      conditionals: -1
+      executionChances: 50
+      direction: horizontal
+    - type: addLine
+      conditionals: [-1, -2]
+      direction: both
+      rects:
+        - [1, 0, 4, 5]
+    - type: addBlock
+      size: 2
+      executions: 4
+    - type: fillArea
+      # URBAN set is lacking blocks 10-13, so the numbers don't correlate properly here,
+      # because these are references to the block numbers within the sets, not the file names.
+      blocks: [3, 4, 10, 11, 12, 13, 14]
+      freqs: [3, 3, 2, 2, 2, 2, 2]

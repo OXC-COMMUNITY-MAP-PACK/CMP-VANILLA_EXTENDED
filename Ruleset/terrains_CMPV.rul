@@ -3481,3 +3481,680 @@ terrains:
         length: 50
 #END LINERSHIP
 ###END SPECIAL MISSIONS
+############################################
+########### BY CEVARALIEN ############
+##########################################
+
+  - name: FMOUNT
+    mapDataSets:
+      - BLANKS
+      - MOUNT
+      - BIOMASS
+    mapBlocks:
+      - name: FMOUNT00
+        width: 10
+        length: 10
+        groups: 1
+      - name: FMOUNT01
+        width: 10
+        length: 10
+        groups: 1
+      - name: FMOUNT02
+        width: 10
+        length: 10
+        groups: 1
+      - name: FMOUNT03
+        width: 10
+        length: 10
+      - name: FMOUNT04
+        width: 10
+        length: 10
+      - name: FMOUNT05
+        width: 10
+        length: 10
+      - name: FMOUNT06
+        width: 10
+        length: 10
+      - name: FMOUNT07
+        width: 10
+        length: 10
+      - name: FMOUNT08
+        width: 10
+        length: 10
+      - name: FMOUNT09
+        width: 10
+        length: 10
+      - name: FMOUNT10
+        width: 10
+        length: 10
+      - name: FMOUNT11
+        width: 20
+        length: 20
+      - name: FMOUNT12
+        width: 20
+        length: 20
+
+  - name: BMOUNT
+    mapDataSets:
+      - BLANKS
+      - BMOUNT
+    mapBlocks:
+      - name: BMOUNT00
+        width: 10
+        length: 10
+        groups: 1
+      - name: BMOUNT01
+        width: 10
+        length: 10
+        groups: 1
+      - name: BMOUNT02
+        width: 10
+        length: 10
+        groups: 1
+      - name: BMOUNT03
+        width: 10
+        length: 10
+      - name: BMOUNT04
+        width: 10
+        length: 10
+      - name: BMOUNT05
+        width: 10
+        length: 10
+      - name: BMOUNT06
+        width: 10
+        length: 10
+      - name: BMOUNT07
+        width: 10
+        length: 10
+      - name: BMOUNT08
+        width: 10
+        length: 10
+      - name: BMOUNT09
+        width: 10
+        length: 10
+      - name: BMOUNT10
+        width: 10
+        length: 10
+      - name: BMOUNT11
+        width: 20
+        length: 20
+      - name: BMOUNT12
+        width: 20
+        length: 20
+
+  - name: DURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBANUFO
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: DURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: DURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: DURBAN07
+        width: 20
+        length: 20
+      - name: DURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: DURBAN14
+        width: 10
+        length: 10
+      - name: DURBAN15
+        width: 10
+        length: 10
+      - name: DURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: PURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBANUFO
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: PURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: PURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: PURBAN07
+        width: 20
+        length: 20
+      - name: PURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: PURBAN14
+        width: 10
+        length: 10
+      - name: PURBAN15
+        width: 10
+        length: 10
+      - name: PURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: JURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBANUFO
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: URBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: JURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: JURBAN07
+        width: 20
+        length: 20
+      - name: URBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: URBAN14
+        width: 10
+        length: 10
+      - name: JURBAN15
+        width: 10
+        length: 10
+      - name: JURBAN16
+        width: 10
+        length: 10        
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: MURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBANUFO
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: MURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: MURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: MURBAN07
+        width: 20
+        length: 20
+      - name: MURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: MURBAN14
+        width: 10
+        length: 10
+      - name: MURBAN15
+        width: 10
+        length: 10
+      - name: MURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: TURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBAN
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: URBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: URBAN07
+        width: 20
+        length: 20
+      - name: URBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: URBAN14
+        width: 10
+        length: 10
+      - name: URBAN15
+        width: 10
+        length: 10
+      - name: URBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: TDURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBAN
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: DURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: DURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: DURBAN07
+        width: 20
+        length: 20
+      - name: DURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: DURBAN14
+        width: 10
+        length: 10
+      - name: DURBAN15
+        width: 10
+        length: 10
+      - name: DURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: TPURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBAN
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: PURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: PURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: PURBAN07
+        width: 20
+        length: 20
+      - name: PURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: PURBAN14
+        width: 10
+        length: 10
+      - name: PURBAN15
+        width: 10
+        length: 10
+      - name: PURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: TJURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBAN
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: URBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: JURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: JURBAN07
+        width: 20
+        length: 20
+      - name: URBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: URBAN14
+        width: 10
+        length: 10
+      - name: JURBAN15
+        width: 10
+        length: 10
+      - name: JURBAN16
+        width: 10
+        length: 10        
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10
+  - name: TMURBAN
+    mapDataSets:
+      - BLANKS
+      - ROADS
+      - URBITS
+      - URBAN
+      - FRNITURE
+      - BIOMASS
+      - LIGHTFRNITURE
+    civilianTypes:
+      - MALE_CIVILIAN
+      - FEMALE_CIVILIAN
+    script: URBAN
+    mapBlocks:
+      - name: URBAN00
+        width: 10
+        length: 10
+        groups: 2
+      - name: URBAN01
+        width: 10
+        length: 10
+        groups: 3
+      - name: URBAN02
+        width: 10
+        length: 10
+        groups: 4
+      - name: MURBAN03
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: MURBAN04
+        width: 10
+        length: 10
+        groups: [0, 1]
+      - name: URBAN05
+        width: 20
+        length: 20
+      - name: URBAN06
+        width: 20
+        length: 20
+      - name: MURBAN07
+        width: 20
+        length: 20
+      - name: MURBAN08
+        width: 20
+        length: 20
+      - name: URBAN09
+        width: 20
+        length: 20
+      - name: MURBAN14
+        width: 10
+        length: 10
+      - name: MURBAN15
+        width: 10
+        length: 10
+      - name: MURBAN16
+        width: 10
+        length: 10
+      - name: URBAN17
+        width: 10
+        length: 10
+      - name: URBAN18
+        width: 10
+        length: 10

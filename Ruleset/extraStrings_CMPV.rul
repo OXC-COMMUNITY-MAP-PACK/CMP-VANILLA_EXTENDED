@@ -44,6 +44,17 @@ extraStrings:
      MAP_FORESTSWAMP_SNOW: "Forest Swamp Snow"
      MAP_NOOBERIA: "Arctic Outpost"
      MAP_IDT_RED_FARM: "Corn Farm"
+     MAP_FMOUNT: "Forest Mount"
+     MAP_BMOUNT: "Desert Mount"
+     MAP_DURBAN: "Desert City (UFO)"
+     MAP_PURBAN: "Snow City (UFO)"
+     MAP_JURBAN: "Jungle City (UFO)"
+     MAP_MURBAN: "Mountain City (UFO)"
+     MAP_TURBAN: "City"
+     MAP_TPURBAN: "Snow City"
+     MAP_TJURBAN: "Jungle City"
+     MAP_TMURBAN: "Mountain City"
+     
 #########################################
      STR_TERROR_MISSION: TERROR MISSION URBAN
      STR_TERROR_MISSION_BRIEFING: "A city is under attack. Mission will be successful when all enemy units have been eliminated or neutralized. You must attempt to save the lives of any civilians in the area by neutralizing the alien menace. To abort the mission return X-Com operatives to transport vehicle and click on the 'Abort Mission' icon."
