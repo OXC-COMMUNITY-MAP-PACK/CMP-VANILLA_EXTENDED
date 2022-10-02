@@ -1,3 +1,6 @@
+X-May-2022: CMP Extended v0.7.2
+- Fixed issue with crashing tile on Corn Farm terrain, reported by Fegelein, solution provided by Meridian
+
 16-April-2022: CMP Extended v0.7
 - Updated to OXCE v7.5.3
 - New terrains:
