@@ -8,16 +8,21 @@ MAPSETS:
 *Chemical Plant: Dioxine
 *Commercial: Hobbes (initial design, APARTMENT), Dioxine (adapted into COMMERCIAL)
 *Corn Farm: efrenespartano, Luke83 & Solarius Scorch 
+*Desert Mount: cevaralien
+*Desert City: cevaralien
 *Expanded Terror Site: Hellrazor & Hobbes
 *ENHANCED MAPS V1.2: bulletdesigner
 *Forest Swamp: Solarius Scorch
 *Forest Snow: Solarius Scorch
 *Forest Swamp Snow: Solarius Scorch
+*Forest Mount: cevaralien
 *IDT EXPANDED VANILLA GLOBE: Luke83 & efrenespartano
 *Industrial Slums: Bagirov (initial design), Dioxine (adapted)
 *Island: Hobbes & Dioxine (adapted from TFTD)
 *(Improved) Forest: Solarius Scorch, Finnik & Civilian
-*Military Airport: Luke83 & efrenespartano 
+*Jungle City: cevaralien
+*Military Airport: Luke83 & efrenespartano
+*Mountain City: cevaralien
 *Refinery: bulletdesigner
 *Rice Fields: Luke83
 *Rural Village: Solarius Scorch & Dioxine
@@ -26,6 +31,7 @@ MAPSETS:
 *Rural Snow Settlement: Luke83, b__0 & efrenespartano
 *Rural Forest: Luke83, b__0 & efrenespartano
 *Small Cruise Liner: Hellrazor (adapted from TFTD)
+*Snow City: cevaralien
 *Port, Roads: Hobbes & Dioxine (adapted from TFTD)
 *Port A: Hobbes & Dioxine (adapted from TFTD)
 *Port B: Hobbes & Dioxine (adapted from TFTD)
