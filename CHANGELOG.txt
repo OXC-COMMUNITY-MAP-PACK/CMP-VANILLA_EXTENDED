@@ -1,4 +1,4 @@
-2-June-2022: CMP Extended v0.8
+2-October-2022: CMP Extended v0.8
 - Updated to OXCE v7.7.3
 - Fixed issue with crashing tile on Corn Farm terrain, reported by Fegelein, throwaway666888154, solution provided by Meridian
 - New terrains, all by cevaralien:
@@ -8,6 +8,7 @@
 	- Snow City
 	- Jungle City
 	- Mountain City
+- Added new terrains to Geoscape and terror sites
 
 16-April-2022: CMP Extended v0.7
 - Updated to OXCE v7.5.3
